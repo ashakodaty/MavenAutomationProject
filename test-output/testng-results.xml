@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-28T13:08:47 EST" name="Suite" finished-at="2023-12-28T13:10:04 EST" duration-ms="77020">
+    <groups>
+    </groups>
+    <test started-at="2023-12-28T13:08:47 EST" name="Test" finished-at="2023-12-28T13:10:04 EST" duration-ms="77020">
+      <class name="infyniTestAutomation.InstructorLoginPageTestCases">
+        <test-method signature="loginAsInstructor()[pri:1, instance:infyniTestAutomation.InstructorLoginPageTestCases@6302bbb1]" started-at="2023-12-28T13:08:47 EST" name="loginAsInstructor" finished-at="2023-12-28T13:09:07 EST" duration-ms="19436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAsInstructor -->
+      </class> <!-- infyniTestAutomation.InstructorLoginPageTestCases -->
+      <class name="infyniTestAutomation.FooterTestcases">
+        <test-method is-config="true" signature="lauchApplication()[pri:0, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:08:37 EST" name="lauchApplication" finished-at="2023-12-28T13:08:47 EST" duration-ms="10511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchApplication -->
+        <test-method signature="redirectToAboutUsPage()[pri:2, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:09:07 EST" name="redirectToAboutUsPage" finished-at="2023-12-28T13:09:13 EST" duration-ms="6206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redirectToAboutUsPage -->
+        <test-method signature="Contactuslink()[pri:3, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:09:13 EST" name="Contactuslink" finished-at="2023-12-28T13:09:15 EST" duration-ms="1772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contactuslink -->
+        <test-method signature="validateNewsLink()[pri:4, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:09:15 EST" name="validateNewsLink" finished-at="2023-12-28T13:09:15 EST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewsLink -->
+        <test-method signature="redirectToFreeWebinarsLink()[pri:5, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:09:15 EST" name="redirectToFreeWebinarsLink" finished-at="2023-12-28T13:09:22 EST" duration-ms="6912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redirectToFreeWebinarsLink -->
+        <test-method signature="redirectTOMentorshipShip()[pri:6, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:09:22 EST" name="redirectTOMentorshipShip" finished-at="2023-12-28T13:09:29 EST" duration-ms="7297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redirectTOMentorshipShip -->
+        <test-method signature="validateCareersLink()[pri:7, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:09:29 EST" name="validateCareersLink" finished-at="2023-12-28T13:09:33 EST" duration-ms="3658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCareersLink -->
+        <test-method signature="clickFQAlink()[pri:8, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:09:33 EST" name="clickFQAlink" finished-at="2023-12-28T13:09:39 EST" duration-ms="5922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickFQAlink -->
+        <test-method signature="Businesslink()[pri:9, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:09:39 EST" name="Businesslink" finished-at="2023-12-28T13:09:44 EST" duration-ms="5333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Businesslink -->
+        <test-method signature="Termslinkclick()[pri:10, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:09:44 EST" name="Termslinkclick" finished-at="2023-12-28T13:09:48 EST" duration-ms="3649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Termslinkclick -->
+        <test-method signature="redirectToPrivacyPolicyLink()[pri:11, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:09:48 EST" name="redirectToPrivacyPolicyLink" finished-at="2023-12-28T13:09:49 EST" duration-ms="1425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redirectToPrivacyPolicyLink -->
+        <test-method signature="signup_InstrtuctorTest()[pri:12, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:09:49 EST" name="signup_InstrtuctorTest" finished-at="2023-12-28T13:09:55 EST" duration-ms="5292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup_InstrtuctorTest -->
+        <test-method signature="redirectToBecomeAMentorPage()[pri:13, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:09:55 EST" name="redirectToBecomeAMentorPage" finished-at="2023-12-28T13:09:56 EST" duration-ms="1841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redirectToBecomeAMentorPage -->
+        <test-method signature="signup_StudentTest()[pri:14, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:09:56 EST" name="signup_StudentTest" finished-at="2023-12-28T13:10:00 EST" duration-ms="4049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup_StudentTest -->
+        <test-method signature="Contactaddressinfo()[pri:15, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:10:00 EST" name="Contactaddressinfo" finished-at="2023-12-28T13:10:01 EST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contactaddressinfo -->
+        <test-method signature="blogsLinkVerify()[pri:16, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:10:01 EST" name="blogsLinkVerify" finished-at="2023-12-28T13:10:04 EST" duration-ms="3474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blogsLinkVerify -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:infyniTestAutomation.FooterTestcases@408d971b]" started-at="2023-12-28T13:10:04 EST" name="closeApplication" finished-at="2023-12-28T13:10:05 EST" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- infyniTestAutomation.FooterTestcases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
